@@ -36,6 +36,7 @@ function play(values) {
           alert("Me lose!");
           return;
         }
+        alert(card);
     }
 }
 
